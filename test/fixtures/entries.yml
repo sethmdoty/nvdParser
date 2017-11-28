@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  [cve: MyString
+  published_datetime: MyString
+  last_modified_datetime: MyString
+  summary: MyString
+  cwe: MyString
+  security_protection: 
+
+two:
+  [cve: MyString
+  published_datetime: MyString
+  last_modified_datetime: MyString
+  summary: MyString
+  cwe: MyString
+  security_protection: 

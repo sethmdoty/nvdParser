@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  [entry_id: 1
+  score: MyString
+  access_vector: MyString
+  access_complexity: MyString
+  authentication: MyString
+  confidentiality_impact: MyString
+  integrity_impact: MyString
+  availability_impact: MyString
+  source: 
+  generated_on_datetime: 
+
+two:
+  [entry_id: 1
+  score: MyString
+  access_vector: MyString
+  access_complexity: MyString
+  authentication: MyString
+  confidentiality_impact: MyString
+  integrity_impact: MyString
+  availability_impact: MyString
+  source: 
+  generated_on_datetime: 

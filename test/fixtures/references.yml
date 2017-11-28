@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  [entry_id: 1
+  source: MyString
+  ref_type: MyString
+  reference: MyString
+  href: MyString
+  language: 
+
+two:
+  [entry_id: 1
+  source: MyString
+  ref_type: MyString
+  reference: MyString
+  href: MyString
+  language: 
