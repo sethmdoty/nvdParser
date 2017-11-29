@@ -1,7 +1,7 @@
 namespace(:db) do
   namespace :seed do
     desc 'seed the database from NVD xml'
-    task :parser do
+    task :parser => :environment do
       class Cvetodatabase < Nokogiri::XML::SAX::Document
         def initialize
           @vals = {}
